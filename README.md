@@ -6,7 +6,7 @@ Created and tested at **5120 × 1440 (32:9)**. The patch changes the internal vi
 
 ## Install (Windows)
 
-1. **Close the game.** Download the latest ZIP from [Releases](../../releases), or use the [downloadable ZIP supplied in the original mod announcement](https://github.com/braindancelive/mayday-survival-island-ultrawide).
+1. **Close the game.** Use **Code → Download ZIP** on this GitHub repository (or the separate packaged ZIP linked in the mod announcement).
 2. Extract the ZIP **completely**.
 3. Double-click **`Install.cmd`**. If Steam's common folders are not found, select the Mayday game directory containing `package.nw`.
 4. Launch the game at 5120 × 1440.
