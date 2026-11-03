@@ -1,0 +1,6 @@
+package.nw
+*.bak
+*.tmp
+*-state.json
+Mayday-UI-Source.zip
+node_modules/
